@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TESTSCENE.unity
+    guid: 43959658d6dc9d4449afe2f30f86f9d9
+  - enabled: 1
+    path: Assets/Scenes/1. LoginPanel.unity
+    guid: 3fcb60443221645c09158ba6184491aa
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 7197c109ba350844c89db0d44460b4f8
+  - enabled: 1
+    path: Assets/Scenes/ScanFace.unity
+    guid: 5c918c4e02a74c243b2c47688662e9a3
+  - enabled: 0
+    path: Assets/Scenes/ARScene (Not Used).unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ARScene 1.unity
+    guid: 81ef1a6d7df1f784f87089f443802968
+  - enabled: 1
+    path: Assets/Scenes/ARSceneMask.unity
+    guid: 31d4a6dac0d53474d80f8a8622c4dbb0
+  - enabled: 1
+    path: Assets/Scenes/ARSceneAcessories.unity
+    guid: fd6474758276c8442ae86b0f0c70a0f7
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ad4d7f226aa3a534b8fb28f89c84e258,
+      type: 2}
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: 11ce080650d319143bd09a1f6e8ba3d1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0c7320f37e3f8b24c9e5b5fd999e40e0,
+      type: 2}

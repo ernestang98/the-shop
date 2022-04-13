@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027866364030",
+    "firebase_url": "https://ntufyp-2aa62-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ntufyp-2aa62",
+    "storage_bucket": "ntufyp-2aa62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027866364030:android:0cc88f48e535fdad6a702f",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ARGLASS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027866364030-66o1bvudeu2ve9u6j9bfiokikcmlv7vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhhuKOsYdlCzl1NV082NAMhcp5Hf9Vjvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027866364030-66o1bvudeu2ve9u6j9bfiokikcmlv7vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
