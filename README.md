@@ -2,6 +2,8 @@
 
 A contactless shopping experience powered by augmented reality. Only available for android users for now.
 
+Click [here](https://www.youtube.com/watch?v=VygIYgySX1E) for demonstration video!
+
 # Dev Notes:
 
 ### Payment Gateway: Stripe
