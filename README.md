@@ -6,6 +6,14 @@ Click [here](https://www.youtube.com/watch?v=VygIYgySX1E) for demonstration vide
 
 # Dev Notes:
 
+### Unity IDE set up: 
+
+- Unity Version: 2020.3.25f1 **(IMPORTANT)**
+
+- Reset packages to default
+
+- May encounter other errors, just google and search on unity forums
+
 ### Payment Gateway: Stripe
 
 In order to create a sense of realism and practicality to our augmented reality shopping application, we planned and attempted to integrate a payment gateway to allow users to checkout and pay for their items. The payment gateway of choice was Stripe.
